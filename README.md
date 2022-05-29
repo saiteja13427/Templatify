@@ -1,4 +1,10 @@
-# Image Editor
+# Templatify
+
+<p style="text-align:center">
+  <img src="/images/home.jpeg" width="200px" />
+  <img src="/images/design1.jpeg" width="200ox" /> 
+</p>
+
 
 This is an application meant for ecommerce banner creation. The app have templates which can be edited and required text can be added.
 
